@@ -3,13 +3,13 @@ An admin-client chat application, where multiple clients enter the queue and wai
 
 ## To start this project 
 
-# Install dependencies:
+### Install dependencies:
 
 ```
 > $ npm install
 ```
 
-# Run server locally:
+### Run server locally:
 
 ```
 > $ node app.js
